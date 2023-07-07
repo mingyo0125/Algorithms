@@ -1,21 +1,44 @@
-#include <stdio.h>
- 
-int main(void){
-    int N;
-    scanf("%d", &N);
-    int arr[N];
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+
+    int a;
+
+    int arr[1000000];
+
+    cin >> a;
     
-    for(int i=0; i<N; i++){
-        scanf("%d", &arr[i]);
+
+    for (int i = 0; i < a; i++)
+    {
+        int b;
+        cin >> b;
+        arr[i] = b;
     }
- 
-    int min = arr[0], max = arr[0];
-    for(int j=0; j<N; j++){
-        if(arr[j] < min)
-            min = arr[j];
-        if(arr[j] > max)
-            max = arr[j];
+
+    int max = arr[0];
+    int min = arr[0];
+
+
+    for (int i = 0; i < a; i++)
+    {
+        if (arr[i] >= max)
+        {
+            max = arr[i];
+        }
+
+        if (arr[i] <= min)
+        {
+            min = arr[i];
+        }
     }
- 
-    printf("%d %d", min, max);
+
+    cout << min << " " << max;
 }
+
