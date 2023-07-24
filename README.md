@@ -1,5 +1,10 @@
- BaekJoon
+ 백준 문제 풀이
 =============
+
+완료한 문제
+------------
+
+🥉##Bronze
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
 
