@@ -1,4 +1,4 @@
-### BaekJoon
+ BaekJoon
 =============
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
