@@ -6,7 +6,8 @@
 
 ### 🥉Bronze
 
-|문제이름||문제번호||난이도||유형||코드||velog 링크||푼 날짜|
+|문제이름|문제번호|난이도|유형|코드|velog 링크|푼 날짜|
+|---|---|---|---|
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
 
