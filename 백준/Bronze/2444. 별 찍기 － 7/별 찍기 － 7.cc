@@ -29,7 +29,7 @@ int main()
 			cout << " ";
 		}
 
-		for (int k = (input - i) * 2 - 1; k > 0; k--)   // 삼각형을 이루는 별 출력
+		for (int k = (input - i) * 2 - 1; k > 0; k--)   // 삼각형을 이루는 별 출력(역삼각형)
 		{
 			cout << "*";
 		}
