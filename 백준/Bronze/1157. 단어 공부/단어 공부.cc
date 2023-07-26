@@ -9,7 +9,7 @@ int main()
 
 	cin >> input;
 
-	int counts[26] = { 0 };
+	int alphaCounts[26] = { 0 };
 
 	int maxCount = 0;
 	int maxIndex = -1;
@@ -23,21 +23,21 @@ int main()
 
 	for (char ch : input)
 	{
-		counts[ch - 'A']++;
+		alphaCounts[ch - 'A']++;
 	}
 
 	for (int i = 0; i < 26; i++)
 	{
-		if (counts[i] > maxCount)
+		if (alphaCounts[i] > maxCount)
 		{
-			maxCount = counts[i];
+			maxCount = alphaCounts[i];
 			maxIndex = i;
 		}
 	}
 
 	for (int i = 0; i < 26; i++)
 	{
-		if (counts[i] == maxCount && i != maxIndex)
+		if (alphaCounts[i] == maxCount && i != maxIndex)
 		{
 			isOverLap = true;
 			break;
@@ -54,4 +54,3 @@ int main()
 		cout << (char)(maxIndex + 'A');
 	}
 }
-
