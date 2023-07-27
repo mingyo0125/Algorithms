@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    string croatiaAlpha[8] = { "c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z=" };
+    string croatianLetters[8] = { "c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z=" };
 
     string input;
     cin >> input;
@@ -16,7 +16,7 @@ int main()
     while (curPos < input.length())
     {
         bool isCroatianLetter = false;
-        for (string curLetter : croatiaAlpha)
+        for (string curLetter : croatianLetters)
         {
             if (input.substr(curPos, curLetter.length()) == curLetter)
             {
