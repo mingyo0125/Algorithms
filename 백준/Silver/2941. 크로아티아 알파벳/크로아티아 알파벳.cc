@@ -11,17 +11,17 @@ int main()
     cin >> input;
 
     int cnt = 0;
-    int pos = 0;
+    int curPos = 0;
 
-    while (pos < input.length())
+    while (curPos < input.length())
     {
         bool isCroatianLetter = false;
-        for (string curAlpha : croatiaAlpha)
+        for (string curLetter : croatiaAlpha)
         {
-            if (input.substr(pos, curAlpha.length()) == curAlpha)
+            if (input.substr(curPos, curLetter.length()) == curLetter)
             {
                 cnt++;
-                pos += curAlpha.length();
+                curPos += curLetter.length();
                 isCroatianLetter = true;
                 break;
             }
@@ -30,7 +30,7 @@ int main()
         if (!isCroatianLetter)
         {
             cnt++;
-            pos++;
+            curPos++;
         }
     }
 
