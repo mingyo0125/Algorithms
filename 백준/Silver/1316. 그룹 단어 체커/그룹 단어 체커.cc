@@ -23,12 +23,8 @@ int main()
         {
             for (int k = j + 2; k < input.length(); k++)
             {
-                if (input[j] == input[k])
+                if (input[j] == input[k] && input[j] != input[j + 1])
                 {
-                    if (input[j] == input[j + 1])
-                    {
-                        break;
-                    }
                     isGroup = false;
                     break;
                 }
