@@ -1,33 +1,50 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
-int main() {
+int main()
+{
+	double sumPoint = 0.0;
+	double sumMajor = 0.0;
 
-  string name, grade;
-  double credit;
+	string name;
+	double point = 0.0;
+	string grade;
 
-  double sumCredit = 0.0;
-  double temp;
-  double res = 0.0;
-  for(int i = 0; i < 20; i++) {
-    cin >> name >> credit >> grade;
-    if(grade == "P") continue;
-    
-    sumCredit += credit;
-    if(grade == "F") continue;
+	for (int i = 0; i < 20; i++)
+	{
+		double dGrade = 0.0;
 
-    if(grade[0] == 'A') temp = 4;
-    else if (grade[0] == 'B') temp = 3;
-		else if (grade[0] == 'C') temp = 2;
-    else temp = 1;
+		cin >> name >> point >> grade;
 
-    if (grade[1] == '+') temp += 0.5;
+		switch (grade[0])
+		{
+		case 'A':
+			dGrade += 4;
+			break;
+		case 'B':
+			dGrade += 3;
+			break;
+		case 'C':
+			dGrade += 2;
+			break;
+		case 'D':
+			dGrade += 1;
+			break;
+		case 'P':
+			continue;
 
-    res += credit * temp;
-  }
+		}
 
-  cout << res / sumCredit;
+		if (grade[1] == '+')
+		{
+			dGrade += 0.5;
+		}
 
-  return 0;
+		sumMajor += dGrade * point;
+		sumPoint += point;
+	}
+
+	cout << sumMajor / sumPoint;
 }
