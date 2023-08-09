@@ -10,18 +10,16 @@ int main()
 	cin >> sec;
 
 	vector<int> divisors;
-	int cnt = 0;
 
 	for (int i = 1; i <= fir; i++)
 	{
 		if (fir % i == 0)
 		{
 			divisors.push_back(i);
-			cnt++;
 		}
 	}
 
-	if (cnt < sec)
+	if (divisors.size() < sec)
 	{
 		cout << "0";
 	}
