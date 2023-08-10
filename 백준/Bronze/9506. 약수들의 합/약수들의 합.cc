@@ -6,7 +6,6 @@ int main()
 {
 	int input;
 
-	vector<int> divisors;
 	vector<int> inputs;
 
 	while (true)
@@ -20,18 +19,20 @@ int main()
 	{
 		if (inputs[i] == -1) { return 0; }
 
+		vector<int> divisors;
+
 		int temp = inputs[i];
-		for (int i = 1; i <= temp; i++)
+		for (int j = 1; j <= temp; j++)
 		{
-			if (temp % i == 0 && i != temp)
+			if (temp % j == 0 && j != temp)
 			{
-				divisors.push_back(i);
+				divisors.push_back(j);
 			}
 		}
 
-		for (int i = 0; i < divisors.size(); i++)
+		for (int j = 0; j < divisors.size(); j++)
 		{
-			temp -= divisors[i];
+			temp -= divisors[j];
 		}
 
 		if (temp == 0)
@@ -49,6 +50,5 @@ int main()
 			cout << inputs[i] << " is NOT perfect." << endl;
 		}
 
-		divisors.clear();
 	}
 }
