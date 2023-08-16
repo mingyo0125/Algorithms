@@ -4,51 +4,51 @@
 
  int main()
  {
-	 vector<int> x, y;
+	 vector<int> inputX, inputY;
 
-	 int findx = 0, findy = 0;
+	 int x = 0, y = 0;
 
 	 for (int i = 0; i < 3; i++)
 	 {
-		 int inputX, inputY;
+		 int inputx, inputy;
 
-		 cin >> inputX >> inputY;
+		 cin >> inputx >> inputy;
 
-		 x.push_back(inputX);
-		 y.push_back(inputY);
+		 inputX.push_back(inputx);
+		 inputY.push_back(inputy);
 	 }
 
-	 if (x[0] != x[1])
+	 if (inputX[0] != inputX[1])
 	 {
-		 if (x[0] != x[2])
+		 if (inputX[0] != inputX[2])
 		 {
-			 findx = x[0];
+			 x = inputX[0];
 		 }
 		 else
 		 {
-			 findx = x[1];
+			 x = inputX[1];
 		 }
 	 }
 	 else
 	 {
-		 findx = x[2];
+		 x = inputX[2];
 	 }
 
-	 if (y[0] != y[1])
+	 if (inputY[0] != inputY[1])
 	 {
-		 if (y[0] != y[2])
+		 if (inputY[0] != inputY[2])
 		 {
-			 findy = y[0];
+			 y = inputY[0];
 		 }
 		 else
 		 {
-			 findy = y[1];
+			 y = inputY[1];
 		 }
 	 }
 	 else
 	 {
-		 findy = y[2];
+		 y = inputY[2];
 	 }
 
-	 cout << findx << " " << findy;
+	 cout << x << " " << y;
  }
