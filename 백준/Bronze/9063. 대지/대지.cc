@@ -24,6 +24,6 @@
 
 	 }
 
-	 cout << abs((bigX - smallX)) * abs((bigY - smallY)); 
+	 cout << abs((bigX - smallX) * (bigY - smallY));
 
  }
