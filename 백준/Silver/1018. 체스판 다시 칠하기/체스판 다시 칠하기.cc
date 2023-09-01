@@ -80,10 +80,7 @@
 
 			 curCnt = white < black ? white : black;
 
-			 if (curCnt < cnt)
-			 {
-				 cnt = curCnt;
-			 }
+			 cnt = curCnt < cnt ? curCnt : cnt;
 		 }
 	 }
 	 std::cout << cnt;
