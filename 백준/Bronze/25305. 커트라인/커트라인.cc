@@ -5,10 +5,10 @@
  int main()
  {
 	 int n;
-	 int a;
+	 int k;
 
 	 cin >> n;
-	 cin >> a;
+	 cin >> k;
 
 	 int arr[1000];
 
@@ -19,5 +19,5 @@
 
 	 sort(arr, arr + n, greater<int>());
 
-	 cout << arr[a - 1];
+	 cout << arr[k - 1];
  } 
