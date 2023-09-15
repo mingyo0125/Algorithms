@@ -1,12 +1,5 @@
 #include <iostream>
-#include <string>
-#include <list>
-#include <deque>
-#include <queue>
-#include <map>
 #include <set>
-#include <unordered_set>
-
 using namespace std;
 
 int main()
@@ -15,32 +8,31 @@ int main()
 	cin.tie(0);
 	cout.tie(0);
 
-    int a;
-    cin >> a;
+	int n, m;
+	set<int> _set;
 
-    set<int> have;
+	cin >> n;
+	for (int i = 0; i < n; i++)
+	{
+		int input;
+		cin >> input;
+		
+		_set.insert(input);
+	}
 
-    for (int i = 0; i < a; i++)
-    {
-        int num;
-        cin >> num;
-        have.insert(num);
-    }
+	cin >> m;
+	for (int i = 0; i < m; i++)
+	{
+		int input;
+		cin >> input;
 
-    int b;
-    cin >> b;
-
-    for (int i = 0; i < b; i++)
-    {
-        int num;
-        cin >> num;
-        if (have.find(num) != have.end())
-        {
-            cout << "1 ";
-        }
-        else
-        {
-            cout << "0 ";
-        }
-    }
+		if (_set.find(input) != _set.end())
+		{
+			cout << "1 ";
+		}
+		else
+		{
+			cout << "0 ";
+		}
+	}
 }
