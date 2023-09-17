@@ -32,7 +32,6 @@ void BFS(int a)
 			{
 				visited[i] = true;
 				q.push(i);
-
 				cout << i << " ";
 			}
 		}
@@ -42,12 +41,12 @@ void BFS(int a)
 void DFS(int a)
 {
 	visited[a] = true;
-
+	
 	cout << a << " ";
 
 	for (int i = 1; i <= n; i++)
 	{
-		if (!visited[i] && map[a][i] == 1)
+		if (!visited[i] && map[i][a] == 1)
 		{
 			DFS(i);
 		}
@@ -62,6 +61,7 @@ int main()
 	for (int i = 0; i < m; i++)
 	{
 		int a, b;
+
 		cin >> a >> b;
 
 		map[a][b] = 1;
