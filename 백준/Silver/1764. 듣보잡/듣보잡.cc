@@ -2,44 +2,40 @@
 #include <set>
 #include <vector>
 #include <algorithm>
-
 using namespace std;
 
-int main() 
+int main()
 {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
+	cin.tie(NULL);
+	ios_base::sync_with_stdio(false);
 
-    int n, m;
-    cin >> n >> m;
+	set<string> _set;
+	vector<string> vec;
 
-    set<string> unheard;
-    vector<string> result;
+	int n, m;
+	cin >> n >> m;
+	for (int i = 0; i < n; i++)
+	{
+		string input;
+		cin >> input;
+		_set.insert(input);
+	}
 
-    for (int i = 0; i < n; i++) 
-    {
-        string name;
-        cin >> name;
-        unheard.insert(name);
-    }
+	for (int i = 0; i < m; i++)
+	{
+		string input;
+		cin >> input;
+		if (_set.find(input) != _set.end())
+		{
+			vec.push_back(input);
+		}
+	}
+	
+	cout << vec.size() << endl;
+	sort(vec.begin(), vec.end());
 
-    for (int i = 0; i < m; i++) 
-    {
-        string name;
-        cin >> name;
-        if (unheard.find(name) != unheard.end()) 
-        {
-            result.push_back(name);
-        }
-    }
-
-    sort(result.begin(), result.end());
-    cout << result.size() << '\n';
-    for (string& name : result) 
-    {
-        cout << name << '\n';
-    }
-
-    return 0;
+	for (int i = 0; i < vec.size(); i++)
+	{
+		cout << vec[i] << endl;
+	}
 }
