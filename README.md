@@ -80,6 +80,8 @@
 |최소공배수 |11478 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="30" height="30"> |수학, 정수론, 유클리드 호제법 |[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/13241.%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-13241-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |2023-09-24
 |분수 합 |1735 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |수학, 정수론, 유클리드 호제법 |[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/1735.%E2%80%85%EB%B6%84%EC%88%98%E2%80%85%ED%95%A9/%EB%B6%84%EC%88%98%E2%80%85%ED%95%A9.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-1735-%EB%B6%84%EC%88%98-%ED%95%A9) |2023-09-25
 |가로수 |2485 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |수학, 정수론, 유클리드 호제법 |[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/2485.%E2%80%85%EA%B0%80%EB%A1%9C%EC%88%98/%EA%B0%80%EB%A1%9C%EC%88%98.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2485-%EA%B0%80%EB%A1%9C%EC%88%98) |2023-09-26
+|다음 소수 |4134 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |수학, 브루트포스 알고리즘, 정수론, 소수 판정 |[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/4134.%E2%80%85%EB%8B%A4%EC%9D%8C%E2%80%85%EC%86%8C%EC%88%98/%EB%8B%A4%EC%9D%8C%E2%80%85%EC%86%8C%EC%88%98.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2485-%EA%B0%80%EB%A1%9C%EC%88%98) |2023-09-27
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
 
