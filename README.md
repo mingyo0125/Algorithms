@@ -93,6 +93,7 @@
 |큐 2 |18258 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |자료 구조, 큐|[코드](백준/Silver/18258. 큐 2/큐 2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-18258-%ED%81%90-2) |2023-10-07
 |카드 2|2164 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |자료 구조, 큐|[코드](백준/Silver/2164. 카드2/카드2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2164-%EC%B9%B4%EB%93%9C-2) |2023-10-08
 |요세푸스 문제 0|11866 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="30" height="30"> |구현, 자료 구조, 큐|[코드](백준/Silver/11866. 요세푸스 문제 0/요세푸스 문제 0.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-11866-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-0) |2023-10-09
+|덱 2|28279 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |자료 구조, 덱|[코드](백준/Silver/28279. 덱 2/덱 2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-28279-%EB%8D%B1-2) |2023-10-10
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
