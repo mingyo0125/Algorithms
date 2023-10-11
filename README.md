@@ -94,6 +94,7 @@
 |카드 2|2164 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |자료 구조, 큐|[코드](백준/Silver/2164. 카드2/카드2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2164-%EC%B9%B4%EB%93%9C-2) |2023-10-08
 |요세푸스 문제 0|11866 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="30" height="30"> |구현, 자료 구조, 큐|[코드](백준/Silver/11866. 요세푸스 문제 0/요세푸스 문제 0.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-11866-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-0) |2023-10-09
 |덱 2|28279 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |자료 구조, 덱|[코드](백준/Silver/28279. 덱 2/덱 2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-28279-%EB%8D%B1-2) |2023-10-10
+|풍선 터뜨리기|2346 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |자료 구조, 덱|[코드](백준/Silver/2346. 풍선 터뜨리기/풍선 터뜨리기.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2346-%ED%92%8D%EC%84%A0-%ED%84%B0%EB%9C%A8%EB%A6%AC) |2023-10-11
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
