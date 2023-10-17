@@ -50,6 +50,7 @@
 |베라의 패션 |15439 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="30" height="30"> |수학, 구현, 조합론 |[코드](백준/Bronze/15439. 베라의 패션/베라의 패션.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15439-%EB%B2%A0%EB%9D%BC%EC%9D%98-%ED%8C%A8%EC%85%98) |2023-10-14
 |녹색거탑 |24723 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="30" height="30"> |수학, 사칙연산|[코드](백준/Bronze/24723. 녹색거탑/녹색거탑.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-24723-%EB%85%B9%EC%83%89%EA%B1%B0) |2023-10-15
 |팩토리얼 |10872 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="30" height="30"> |수학, 구현, 사칙연산|[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10872.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-10872-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC) |2023-10-16
+|이항 계수 1 |11050 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="30" height="30"> |수학, 구현, 조합론|[코드](백준/Bronze/11050. 이항 계수 1/이항 계수 1.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-11050-%EC%9D%B4%ED%95%AD-%EA%B3%84%EC%88%98-1) |2023-10-17
 
 
 ### 🥈Silver
