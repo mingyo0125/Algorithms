@@ -100,6 +100,7 @@
 |덱 2|28279 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="30" height="30"> |자료 구조, 덱|[코드](백준/Silver/28279. 덱 2/덱 2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-28279-%EB%8D%B1-2) |2023-10-10
 |풍선 터뜨리기|2346 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |자료 구조, 덱|[코드](백준/Silver/2346. 풍선 터뜨리기/풍선 터뜨리기.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2346-%ED%92%8D%EC%84%A0-%ED%84%B0%EB%9C%A8%EB%A6%AC) |2023-10-11
 |queuestack|24511 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |자료 구조, 스택, 덱, 큐|[코드](백준/Silver/24511. queuestack/queuestack.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-24511-queuestack) |2023-10-13
+|다리 놓기|1010 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="30" height="30"> |수학, 다이나믹 프로그래밍, 조합론|[코드](백준/Silver/1010. 다리 놓기/다리 놓기.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-1010-%EB%8B%A4%EB%A6%AC-%EB%86%93%EA%B8%B0) |2023-10-18
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
