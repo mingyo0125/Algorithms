@@ -1,41 +1,25 @@
 #include <iostream>
 using namespace std;
 
-struct node
+struct Node
 {
 	int data;
-	struct node* left;
-	struct node* right;
+	struct Node* left;
+	struct Node* right;
 };
 
-node* MakeNode(int a);
-void postorder(node* nd);
-void Insert(node* r, node* node);
+Node* root = NULL;
 
-node* root = NULL;
-
-int main()
+Node* MakeNode(int data)
 {
-	int input;
-	int previous = 0;
-	while (cin >> input)
-	{
-		Insert(root, MakeNode(input));
-	}
-	postorder(root);
-	return 0;
+	Node* node = new Node();
+	node->data = data;
+	node->left = NULL;
+	node->right = NULL;
+	return node;
 }
 
-node* MakeNode(int a)
-{
-	node* nd = new node();
-	nd->left = NULL;
-	nd->right = NULL;
-	nd->data = a;
-	return nd;
-}
-
-void Insert(node* r, node* node)
+void Insert(Node* r, Node* node)
 {
 	if (r == NULL) root = node;
 	else if (r->data < node->data)
@@ -62,12 +46,22 @@ void Insert(node* r, node* node)
 	}
 }
 
-void postorder(node* nd)
+void Hoo(Node* nd)
 {
-	if (nd == NULL) { return; }
+	if (nd == NULL) return;
 
-	postorder(nd->left);
-	postorder(nd->right);
+	Hoo(nd->left);
+	Hoo(nd->right);
 
-	cout << nd->data << endl;
+	cout << nd->data << "\n";
+}
+
+int main()
+{
+	int input;
+	while (cin >> input)
+	{
+		Insert(root, MakeNode(input));
+	}
+	Hoo(root);
 }
