@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 {
-    set<string> set;
+    set<string> _set;
     int n, cnt = 0;
     cin >> n;
     string input;
@@ -16,15 +16,15 @@ int main()
 
         if (input == "ENTER")
         {
-            cnt += set.size();
-            set.clear();
+            cnt += _set.size();
+            _set.clear();
             continue;
         }
 
-        set.insert(input);
+        _set.insert(input);
     }
 
-    cnt += set.size();
+    cnt += _set.size();
 
     cout << cnt;
 }
