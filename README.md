@@ -53,6 +53,7 @@
 |이항 계수 1 |11050 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="30" height="30"> |수학, 구현, 조합론|[코드](백준/Bronze/11050. 이항 계수 1/이항 계수 1.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-11050-%EC%9D%B4%ED%95%AD-%EA%B3%84%EC%88%98-1) |2023-10-17
 |약수 |1037 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="30" height="30"> |수학, 정수론|[코드](백준/Bronze/1037. 약수/약수.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-1037-%EC%95%BD%EC%88%98) |2023-10-19
 |팩토리얼 2 |27433 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="30" height="30"> |수학, 사칙연산|[코드](백준/Bronze/27433. 팩토리얼 2/팩토리얼 2.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-27433-%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC-2%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98) |2023-10-24
+|재귀의 귀재 |25501 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="30" height="30"> |구현, 문자열, 재귀|[코드](백준/Bronze/25501. 재귀의 귀재/재귀의 귀재.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-25501-%EC%9E%AC%EA%B7%80%EC%9D%98-%EA%B7%80%EC%9E%AC) |2023-10-25
 
 
 ### 🥈Silver
