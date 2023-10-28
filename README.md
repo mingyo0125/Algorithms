@@ -111,6 +111,12 @@
 |영단어 암기는 괴로워 |20920 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵, 트리를 사용한 집합과 맵|[코드](백준/Silver/20920. 영단어 암기는 괴로워/영단어 암기는 괴로워.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-20920-%EC%98%81%EB%8B%A8%EC%96%B4-%EC%95%94%EA%B8%B0%EB%8A%94-%EA%B4%B4%EB%A1%9C%EC%9B%8C) |2023-10-23
 |칸토어 집합 |20920 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |분할 정복, 재귀|[코드](백준/Silver/4779. 칸토어 집합/칸토어 집합.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-4779-%EC%B9%B8%ED%86%A0%EC%96%B4-%EC%A7%91%ED%95%A9) |2023-10-27
 
+### 🥇GOLD
+
+|문제이름|문제번호|난이도|유형|코드|velog 링크|푼 날짜|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|별 찍기 - 10 |2447 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"> |분할정복, 재귀 |[코드](백준/Gold/2447. 별 찍기 － 10/별 찍기 － 10.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2447-%EB%B3%84-%EC%B0%8D%EA%B8%B0-10) |2023-10-28|
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
 
