@@ -116,6 +116,7 @@
 |문제이름|문제번호|난이도|유형|코드|velog 링크|푼 날짜|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
 |별 찍기 - 10 |2447 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"> |분할정복, 재귀 |[코드](백준/Gold/2447. 별 찍기 － 10/별 찍기 － 10.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2447-%EB%B3%84-%EC%B0%8D%EA%B8%B0-10) |2023-10-28|
+|하노이 탑 이동 순서 |11729 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="30" height="30"> |재귀 |[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C/%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-11729-%ED%95%98%EB%85%B8%EC%9D%B4-%ED%83%91-%EC%9D%B4%EB%8F%99-%EC%88%9C%EC%84%9C) |2023-10-29|
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdalsry125)](https://solved.ac/wjdalsry125/)
