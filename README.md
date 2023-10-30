@@ -110,6 +110,7 @@
 |통계학 |2108 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |수학, 구현, 정렬|[코드](백준/Silver/2108. 통계학/통계학.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-2108-%ED%86%B5%EA%B3%84%ED%95%99) |2023-10-22
 |영단어 암기는 괴로워 |20920 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵, 트리를 사용한 집합과 맵|[코드](백준/Silver/20920. 영단어 암기는 괴로워/영단어 암기는 괴로워.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-20920-%EC%98%81%EB%8B%A8%EC%96%B4-%EC%95%94%EA%B8%B0%EB%8A%94-%EA%B4%B4%EB%A1%9C%EC%9B%8C) |2023-10-23
 |칸토어 집합 |20920 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |분할 정복, 재귀|[코드](백준/Silver/4779. 칸토어 집합/칸토어 집합.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-4779-%EC%B9%B8%ED%86%A0%EC%96%B4-%EC%A7%91%ED%95%A9) |2023-10-27
+|N과 M (1) |15649 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](백준/Silver/15649. N과 M （1）/N과 M （1）.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15649-N%EA%B3%BC-M-1) |2023-10-30
 
 ### 🥇GOLD
 
