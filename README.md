@@ -112,6 +112,7 @@
 |칸토어 집합 |20920 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |분할 정복, 재귀|[코드](백준/Silver/4779. 칸토어 집합/칸토어 집합.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-4779-%EC%B9%B8%ED%86%A0%EC%96%B4-%EC%A7%91%ED%95%A9) |2023-10-27
 |N과 M (1) |15649 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](백준/Silver/15649. N과 M （1）/N과 M （1）.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15649-N%EA%B3%BC-M-1) |2023-10-30
 |N과 M (2) |15650 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/15650.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%882%EF%BC%89/N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%882%EF%BC%89.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15650-N%EA%B3%BC-M-2) |2023-10-31
+|N과 M (3) |15651 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](백준/Silver/15651. N과 M （3）/N과 M （3）.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15651-N%EA%B3%BC-M-3) |2023-11-01
 
 ### 🥇GOLD
 
