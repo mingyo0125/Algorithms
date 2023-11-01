@@ -7,7 +7,7 @@ int n, m;
 vector<int> vec;
 set<vector<int>> _set;
 
-void Backtrack(int x)
+void Backtrack(int start)
 {
     if (vec.size() == m)
     {
@@ -15,7 +15,7 @@ void Backtrack(int x)
         return;
     }
 
-    for (int i = x; i <= n; i++)
+    for (int i = start; i <= n; i++)
     {
         vec.push_back(i);
         Backtrack(1);
