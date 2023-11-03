@@ -114,6 +114,7 @@
 |N과 M (2) |15650 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](https://github.com/mingyo0125/Algorithms/blob/main/%EB%B0%B1%EC%A4%80/Silver/15650.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%882%EF%BC%89/N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%882%EF%BC%89.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15650-N%EA%B3%BC-M-2) |2023-10-31
 |N과 M (3) |15651 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](백준/Silver/15651. N과 M （3）/N과 M （3）.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15651-N%EA%B3%BC-M-3) |2023-11-01
 |N과 M (4) |15652 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](백준/Silver/15652. N과 M （4）/N과 M （4）.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-15652-N%EA%B3%BC-M-4) |2023-11-02
+|구간 합 구하기 4|15652 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="30" height="30"> |백트래킹|[코드](백준/Silver/11659. 구간 합 구하기 4/구간 합 구하기 4.cc)|[문제 풀이 보러가기](https://velog.io/@mingyo0125/%EB%B0%B1%EC%A4%80-11659-%EA%B5%AC%EA%B0%84-%ED%95%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-4) |2023-11-03
 
 ### 🥇GOLD
 
