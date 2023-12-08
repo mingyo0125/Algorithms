@@ -5,18 +5,18 @@ using namespace std;
 
 int main()
 {
-    longlong n, k, input, cnt = 0;
+    int n, k, input, cnt = 0;
     cin >> n >> k;
-    vector<longlong> coins;
+    vector<int> coins;
 
-    for (longlong i = 0; i < n; i++)
+    for (int i = 0; i < n; i++)
     {
         cin >> input;
 
         coins.push_back(input);
     }
 
-    for (longlong i = coins.size() - 1; i >= 0; i--)
+    for (int i = coins.size() - 1; i >= 0; i--)
     {
         if (coins[i] > k) { continue; }
 
