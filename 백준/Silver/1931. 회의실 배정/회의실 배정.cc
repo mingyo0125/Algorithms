@@ -21,9 +21,6 @@ int main()
 
     sort(vec.begin(), vec.end());
 
-    //cur = vec[0];
-    //cnt++;
-
     for (auto v : vec)
     {
         if (cur.first <= v.second)
